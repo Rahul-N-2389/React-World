@@ -1,6 +1,7 @@
 
 import DarkLightMode from "./Components/DarkLightMode"
 import ShowHide from "./Components/ShowHide"
+import Calculator from "./Components/Calculator"
 
 function App() {
 
@@ -18,7 +19,8 @@ function App() {
 
       <StudentCard /> */}
       {/* <DarkLightMode/> */}
-      <ShowHide/>
+      {/* <ShowHide/> */}
+      <Calculator/>
 
 
 
