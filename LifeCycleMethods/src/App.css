@@ -16,7 +16,12 @@
 #stob,#rstb,#stb{
   color: black;
   border: 0;
-  padding: 8px;
+  padding: 5px;
   border-radius: 3px;
   margin: 5px;
+  font-family: 'Times New Roman', Times, serif;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+
 }

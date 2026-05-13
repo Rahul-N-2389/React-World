@@ -82,7 +82,7 @@ class StopWatch extends Component {
 render() {
     return (
         <div>
-            <h1 style={{color:this.state.color}} >{this.state.hours} h : {this.state.min} m: {this.state.sec} s</h1>
+            <h1 style={{color:this.state.color}} >{this.state.hours} h : {this.state.min} m : {this.state.sec} s</h1>
             <button onClick={this.stopBtn} id="stob" >Stop</button>
             <button onClick={this.restBtn} id="rstb">Reset</button>
             <button onClick={this.stBtn} id="stb">Start</button>
