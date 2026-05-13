@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#stb{
+  background-color: green;
+
+}
+#rstb{
+  background-color: yellow;
+}
+#stob{
+  background-color: red;
+}
+#stob,#rstb,#stb{
+  color: black;
+  border: 0;
+  padding: 8px;
+  border-radius: 3px;
+  margin: 5px;
+}
